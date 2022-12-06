@@ -39,6 +39,3 @@ while i < len(myAdminEmail):
     login("", '', myAdminEmail[i], '', myAdminPassword, '')
     time.sleep(4)
     i = i + 1
-
-
-    
